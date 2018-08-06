@@ -1,5 +1,5 @@
-puts "maya"
-puts "maya".upcase
+puts "Hello"
+puts "Hello".upcase
 puts "Hello".downcase
 puts "Hello".reverse
 puts "Hello".swapcase
