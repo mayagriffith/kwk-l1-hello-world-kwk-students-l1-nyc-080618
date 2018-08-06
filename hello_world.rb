@@ -1,1 +1,1 @@
-puts "Hello Maya!"
+puts "2 + 2 = 5"
